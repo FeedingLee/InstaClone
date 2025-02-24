@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    <string name="email">이메일</string>
+    <string name="password">비밀번호</string>
+    <string name="signin_email">가입하거나 기존 이메일로 로그인하기 </string>
+    <string name="home">홈</string>
+    <string name="upload_image">사진 업로드</string>
+    <string name="hint_image_content">당신의 이야기를 작성해주세요.</string>
+
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+</resources>
